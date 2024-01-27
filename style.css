@@ -708,7 +708,6 @@ video {
 }
 
 #footer {
-  width: 150vw;
   flex-direction: column;
   flex-wrap: wrap;
   justify-content: center;
@@ -744,6 +743,10 @@ video {
 
 #about-us img {
   width: 150px;
+}
+
+#main{
+  width: 120vw;
 }
 }
 
